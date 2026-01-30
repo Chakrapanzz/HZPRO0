@@ -1,9 +1,11 @@
 {
     "version": "1.6",
     "build": 20240123,
+    "date": "16 Jan 2024",
     "size": 1218704,
     "notes": "- Fix battery display bug\n- Add RPM smoothing\n- Improve WiFi stability"
 }
+
 
 
 
