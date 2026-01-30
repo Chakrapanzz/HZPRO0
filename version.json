@@ -1,9 +1,10 @@
 {
-    "version": "1.5",
-    "build": 20240122,
+    "version": "1.6",
+    "build": 20240123,
     "size": 1218704,
     "notes": "- Fix battery display bug\n- Add RPM smoothing\n- Improve WiFi stability"
 }
+
 
 
 
