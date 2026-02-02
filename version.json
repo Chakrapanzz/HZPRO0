@@ -1,10 +1,11 @@
 {
-    "version": "1.7",
-    "build": 20240123,
-    "date": "3 JAN 2026",
+    "version": "1.2",
+    "build": 20240122,
+    "date": "02 FEB 2026",
     "size": 1232624,
     "notes": "- Fix battery display bug\n- Add RPM smoothing"
 }
+
 
 
 
